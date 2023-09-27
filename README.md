@@ -1,0 +1,1 @@
+# sn-vault-credential-resolver
